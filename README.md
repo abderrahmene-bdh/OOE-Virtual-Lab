@@ -1,8 +1,12 @@
 # 🔬 OOE VIRTUAL LABORATORY: OPTICAL & EM SYSTEMS
 **Institution:** National Higher School of Advanced Technologies (ENSTA)  
 **Module:** Physics / Computer Vision  
-**Academic Year:** 2025–2026  
 **Supervisor:** Dr. CHEGGOU Rabéa  
+**Status:** Project Archiving & Collection Phase  
+
+---
+
+> **📌 NOTE FOR STUDENTS:** This GitHub repository has been established for a **Better Collection** and professional archiving of your submitted works. It serves as the official digital library for the MI2 OOE projects (2025–2026).
 
 ---
 
@@ -10,10 +14,7 @@
 *To be completed by the Project Leader:*
 - **Project Leader:** [Name Here]
 - **Group:** [Number]
-- **Team Members:**
-  1. [Name 1]
-  2. [Name 2]
-  3. [Name 3]
+- **Team Members:** (Full Names of all contributors)
 
 ---
 
@@ -22,33 +23,31 @@
 ### Theme 1: Physics of Refraction & Engineering Applications
 * Geometric modeling of refraction (Snell-Descartes laws).
 * Apparent depth phenomena and underwater robotic guidance.
-* Fiber optics: Critical angles and total internal reflection for data transmission.
+* Fiber optics: Critical angles and total internal reflection.
 
 ### Theme 2: Biophysics of Vision & Optical Correction
-* Modeling the human eye as an optical system (Relaxed vs. Accommodated).
+* Modeling the human eye (Relaxed vs. Accommodated).
 * Physiological causes of Myopia and corrective lens simulations.
-* Dynamic focal length adjustment and optical power (Diopters).
 
 ### Theme 3: Advanced Projection & Surveillance Systems
 * Ray tracing for video projectors and image inversion.
-* Wide-angle visualization through door peepholes (Negative power lenses).
-* Geometry of perpendicular mirror grids and total reflection.
+* Wide-angle visualization through door peepholes (-10D lenses).
 
 ### Theme 4: EM Waves, Interference & Diffraction
-* Wave propagation and Electromagnetic spectrum analysis.
+* Wave propagation and Electromagnetic spectrum.
 * Modeling Young’s double-slit interference patterns.
-* Diffraction through apertures and its impact on image resolution in Computer Vision.
+* Diffraction impact on resolution in Computer Vision.
 
 ---
 
 ## 🚀 SUBMISSION INSTRUCTIONS (FOR PROJECT LEADERS)
 
-⚠️ **Strict Policy:** Only the **Project Leader (Chef de Projet)** is authorized to manage the GitHub repository and push code.
+⚠️ **Strict Policy:** To maintain a clean archive, only the **Project Leader (Chef de Projet)** is authorized to manage the repository and push the final code.
 
-1. **Fork & Setup:** The Project Leader must fork this repository and fill in the "Team Identification" section above.
-2. **Collaboration:** Other members contribute to the code, but the Leader is the only one pushing to the main branch.
-3. **Simulation:** Each theme must be accompanied by a functional visual simulation (HTML/JavaScript).
-4. **Final Link:** Submit the final repository URL once all 4 themes are completed.
+1. **Fork:** The Leader must fork this repository.
+2. **Team Info:** Ensure all member names and the group number are clearly listed above.
+3. **Code Quality:** Upload all functional HTML/JS simulations and technical documentation.
+4. **Final Link:** Provide the repository URL for final evaluation and archiving.
 
 ---
-**Good Luck!**
+**Thank you for your contributions!**
