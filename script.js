@@ -1,10 +1,11 @@
-// Petit JS interactif pour futur usage
-document.addEventListener("DOMContentLoaded", () => {
-    const simLink = document.querySelector('.simulation-link');
-    simLink.addEventListener('mouseover', () => {
-        simLink.style.transform = "scale(1.05)";
-    });
-    simLink.addEventListener('mouseout', () => {
-        simLink.style.transform = "scale(1)";
+// Optional: simple fade-in animation for sections
+document.addEventListener('DOMContentLoaded', () => {
+    const sections = document.querySelectorAll('section');
+    sections.forEach((sec, i) => {
+        sec.style.opacity = 0;
+        setTimeout(() => {
+            sec.style.transition = 'opacity 1s ease';
+            sec.style.opacity = 1;
+        }, i * 300);
     });
 });
