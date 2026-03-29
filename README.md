@@ -43,7 +43,7 @@
 ## 🔗 LIVE DEMO
 > **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, replace the URL below with your actual live link.
 
-[🚀 Click here to view the Interactive Simulation](https://your-username.github.io/your-repo-name/)
+[🚀 Click here to view the Interactive Simulation](https://abderrahmene-bdh.github.io/OOE-Virtual-Lab./)
 
 ---
 
